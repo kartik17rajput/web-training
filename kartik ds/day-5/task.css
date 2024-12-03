@@ -1,0 +1,12 @@
+.container{
+display: flex;
+justify-content: space-between;
+}
+.green{
+    border: 5px solid green;
+    width: 250px;
+    height: 350px;
+    background-color: green;
+    
+
+}
