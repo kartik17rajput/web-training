@@ -1,0 +1,27 @@
+.container{
+    background-color: brown;
+    min-height: 100 vh;
+    width: 100 vw;
+    margin: 50px;
+    position: relative;
+    display: flex;
+
+
+   
+}
+
+.box{
+    background-color: wheat;
+    width:50%;
+    height: 100px;
+    margin: 50px;
+    border: 20px dotted beige;
+
+}
+.bottom{
+    background-color: wheat;
+    border: 20px dashed beige;
+
+
+} 
+
